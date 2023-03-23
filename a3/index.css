@@ -1,0 +1,30 @@
+body{
+    background-color: blueviolet;
+}
+
+.hane{
+    width: 1600px;
+    height: 150px;
+    background-color: aqua;
+}
+.marte{
+    width: 1600px;
+    height: 150px;
+    background-color: brown;
+}
+.merkure{
+    width: 1600px;
+    height: 150px;
+    background-color: white;
+}
+.enjte{
+    width: 1600px;
+    height: 150px;
+    background-color: red;
+}
+.premte{
+    width: 1600px;
+    height: 150px;
+    background-color: chartreuse;
+}
+

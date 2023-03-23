@@ -1,0 +1,68 @@
+
+body {
+    font-family: sans-serif;
+    background-color: #38ada9;
+    color: #3a3a3a;
+  }
+  
+  form {
+    display: block;
+    margin: 0 auto;
+    width: 25%;
+    background-color: #f8f8f9;
+    padding: 10px 20px;
+    border-radius: 20px;
+  }
+  
+  h2 {
+    color: #3a3a3a;
+  }
+  
+  label {
+    display: block;
+    font-weight: 400;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="password"],
+  select,
+  textarea {
+    width: 100%;
+    padding: 0;
+    height: 35px;
+    border: 2px solid #e9e9e9;
+    margin-bottom: 20px;
+  }
+  input[type="text"]:focus,
+  input[type="email"]:focus,
+  input[type="password"]:focus,
+  textarea:focus,
+  select:focus {
+    outline: none;
+    border: 2px solid #1b868b;
+  }
+  
+  textarea {
+    resize: vertical;
+  }
+  
+  .custom {
+    display: inline-block;
+  }
+  
+  button {
+    margin-top: 30px;
+    width: 100%;
+    border-radius: 4px;
+    height: 50px;
+    border: none;
+    background-color: #1b868b;
+    text-transform: uppercase;
+    font-family: inherit;
+    color: white;
+    font-size: 16px;
+  }
+  
+

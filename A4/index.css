@@ -1,0 +1,14 @@
+@media only screen {
+    
+}
+ .small {
+    background-color: lightblue;
+    width: 400px;
+    height: 250px;
+ }
+ .big {
+     
+ }
+ img {
+   opacity: 0.9;
+ }
